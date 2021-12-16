@@ -1,7 +1,4 @@
 #################################################### IMPORT MODUL ####################################################
-from typing import Sequence
-from altair.vegalite.v4.schema.channels import Size
-from altair.vegalite.v4.schema.core import FontStyle
 import numpy as np
 import streamlit as st
 import pandas as pd
