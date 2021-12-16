@@ -9,7 +9,7 @@ from matplotlib import cm
 
 
 #PANGGIL FILE
-df = pd.read_csv("Downloads/produksi_minyak_mentah.csv")
+df = pd.read_csv("produksi_minyak_mentah.csv")
 
 
 #################################################### TITLE ####################################################
