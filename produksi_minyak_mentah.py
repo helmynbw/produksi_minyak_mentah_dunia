@@ -19,7 +19,7 @@ st.title("Statistik Produksi Jumlah Minyak Mentah Dunia")
 
 
 #OPEN JSON
-with open("Downloads/kode_negara_lengkap.json") as f:
+with open("kode_negara_lengkap.json") as f:
     data = json.load(f)
 
 #MENGGANTI KODE NEGARA DENGAN NAMA NEGARA LENGKAP
